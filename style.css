@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.container{
+    border-radius: 12px;
+    margin: 20px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    padding: 18px;
+    padding-top: 40px;
+}
+
+div img{
+    margin: 40px;
+    box-shadow: 0 0 15px black;
+}
